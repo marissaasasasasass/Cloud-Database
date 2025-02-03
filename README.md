@@ -1,5 +1,4 @@
 # Cloud-Database
 
-# Programminng Language: SQL
-
-# Application Used: SQL Server Mangement Studio 20
+Programminng Language: SQL
+Application Used: SQL Server Mangement Studio 20
